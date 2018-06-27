@@ -21,8 +21,6 @@ public class SpringBootServiceTest {
 
    @Autowired
     private SpringBootController controller;
-
-
   
     @Test
     public void getControllerCoverage()
