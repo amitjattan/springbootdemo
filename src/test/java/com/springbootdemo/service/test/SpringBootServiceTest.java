@@ -33,8 +33,7 @@ public class SpringBootServiceTest {
         assert(greeting).equals("Hello Spring Boot Demo 1");
 
     }
-    
-   
+       
     @Autowired
 	private TestRestTemplate restTemplate;
     
