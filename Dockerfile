@@ -1,4 +1,4 @@
-FROM ubuntu:12.04
+FROM ubuntu:16.04
 ENV JAVA_VERSION 8u31
 ENV BUILD_VERSION b13
 # Upgrading system
